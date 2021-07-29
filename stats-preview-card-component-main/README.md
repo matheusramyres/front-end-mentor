@@ -25,10 +25,16 @@ Os usuários devem ser capazes de:
 ### Capturas de tela
 
 #### Desktop-01
-<img src="https://ibb.co/58kpqkY"/>
+
+<div align="center">
+    <img src="https://i.ibb.co/G29Yg9s/Desktop.gif" width="800" alt="image-01" />
+</div>
 
 #### Mobile-02
-<img src="https://ibb.co/wrcN0JX"/>
+
+<div align="center">
+    <img src="https://i.ibb.co/3YRyrfq/mobile.gif"/>
+</div>
 
 ## Meu processo
 
